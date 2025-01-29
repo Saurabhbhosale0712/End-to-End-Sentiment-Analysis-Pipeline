@@ -2,7 +2,7 @@
 
 To implement a sentiment analysis pipeline on a well-known public dataset. The process includes:
 
-1.	Downloading the dataset.
+1.	Downloading the dataset  (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
    
 2.	Storing the data in a database.
    
