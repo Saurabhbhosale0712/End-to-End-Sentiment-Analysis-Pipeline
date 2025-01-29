@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        .light-bold {
+            font-weight: 800;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sentiment Analysis Result</h1>
+    <p><strong>Original Review:</strong> {{ input_review }}</p>
+    <p><strong>Cleaned Review:</strong> {{ cleaned_review }}</p>
+    <p><strong>Predicted Sentiment:</strong> <span class="light-bold">{{ predicted_sentiment }}</span></p>
+    <br><br>
+    <a href="/">Go Back</a>
+</body>
+</html>
