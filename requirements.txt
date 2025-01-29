@@ -1,0 +1,5 @@
+Flask==2.3.2
+scikit-learn==1.6.1
+numpy==1.24.4
+pandas==1.5.3
+jinja2==3.1.2  # Jinja2 is included with Flask, but you can specify it if needed
