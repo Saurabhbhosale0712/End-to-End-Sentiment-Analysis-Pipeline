@@ -1,8 +1,8 @@
 # End-to-End-Sentiment-Analysis-Pipeline
 
-You will implement a sentiment analysis pipeline on a well-known public dataset. The process includes:
+To implement a sentiment analysis pipeline on a well-known public dataset. The process includes:
 
-1.	Downloading the dataset (already annotated with sentiment).
+1.	Downloading the dataset.
    
 2.	Storing the data in a database.
    
